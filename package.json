@@ -3,6 +3,7 @@
 	"version": "2.0.2",
 	"private": true,
 	"homepage": "/harga-pasar-kendari",
+	"homepage": "https://uggaaa31.github.io/hargapasarkendari"
 	"dependencies": {
 		"@chakra-ui/card": "^2.2.0",
 		"@chakra-ui/icons": "^1.1.5",
