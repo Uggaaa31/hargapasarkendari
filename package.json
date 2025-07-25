@@ -1,5 +1,4 @@
 {
-<<<<<<< HEAD
   "name": "harga-pasar",
   "version": "2.0.2",
   "private": true,
@@ -85,7 +84,6 @@
       "not OperaMini all"
     ]
   }
-=======
 	"name": "harga-pasar",
 	"version": "2.0.2",
 	"private": true,
@@ -173,5 +171,4 @@
 			"not OperaMini all"
 		]
 	}
->>>>>>> ce08c5a (Add deploy settings)
 }
